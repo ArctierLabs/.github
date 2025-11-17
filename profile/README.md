@@ -1,7 +1,2 @@
-# 株式会社アークティア / ArctierLabs
-
-株式会社アークティア（ArctierLabs）は、  
-**データ解析・AIソリューションを通じて、社会課題の解決と新しい価値創出に挑戦するテクノロジーカンパニー** です。
-
-私たちは、先端技術を活用することで、多様な領域の課題に向き合い、  
-「テクノロジーによって人々の生活をより良くすること」をミッションとしています。
+**We are a technology company dedicated to solving social challenges and creating new value through data analytics and AI-driven solutions.**
+By leveraging cutting-edge technologies, we address issues across diverse domains, with the mission of **improving people’s lives through the power of technology**.
